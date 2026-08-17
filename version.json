@@ -1,15 +1,15 @@
 {
-  "version": "1.1.0-beta.16",
-  "pub_date": "2026-08-17T04:25:00Z",
-  "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.16/medicare-windows-setup-1.1.0-beta.16.exe",
-  "sha256": "43dee6c1e707532643513f6eddb1f1232999935f65246abd95ae1988188ccd91",
-  "notes": "Medicare Release 1.1.0-beta.16 - PowerShell ShellExecuteEx UAC Fix & Guaranteed Silent Relaunch",
+  "version": "1.1.0-beta.17",
+  "pub_date": "2026-08-17T04:39:00Z",
+  "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.17/medicare-windows-setup-1.1.0-beta.17.exe",
+  "sha256": "97b9115671d9877da2797c5ddfae51b54469d7a47fa8b85759eaa0e143722fe6",
+  "notes": "Medicare Release 1.1.0-beta.17 - Version Control Feature Testing",
   "windows": {
-    "version": "1.1.0-beta.16",
-    "pub_date": "2026-08-17T04:25:00Z",
-    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.16/medicare-windows-setup-1.1.0-beta.16.exe",
-    "sha256": "43dee6c1e707532643513f6eddb1f1232999935f65246abd95ae1988188ccd91",
-    "notes": "Medicare Windows Release 1.1.0-beta.16"
+    "version": "1.1.0-beta.17",
+    "pub_date": "2026-08-17T04:39:00Z",
+    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.17/medicare-windows-setup-1.1.0-beta.17.exe",
+    "sha256": "97b9115671d9877da2797c5ddfae51b54469d7a47fa8b85759eaa0e143722fe6",
+    "notes": "Medicare Windows Release 1.1.0-beta.17"
   },
   "android": {
     "version": "1.1.0-beta.14",
