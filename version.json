@@ -1,21 +1,21 @@
 {
-  "version": "1.1.0-beta.10",
-  "pub_date": "2026-08-17T01:35:00Z",
-  "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.10/medicare-windows-setup-1.1.0-beta.10.exe",
-  "sha256": "5d920abe20034ea9b7a94652430ceab3de1cf7ff3a14ceb782176d8a468aabcc",
-  "notes": "Medicare Release 1.1.0-beta.10 - PocketBase Backup & Update Fixes",
+  "version": "1.1.0-beta.11",
+  "pub_date": "2026-08-17T01:55:00Z",
+  "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.11/medicare-windows-setup-1.1.0-beta.11.exe",
+  "sha256": "67e912c5c2dd3436c6a49e62ff4a0f83e1b6ef43aa278de670413b84fcf1595e",
+  "notes": "Medicare Release 1.1.0-beta.11",
   "windows": {
-    "version": "1.1.0-beta.10",
-    "pub_date": "2026-08-17T01:35:00Z",
-    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.10/medicare-windows-setup-1.1.0-beta.10.exe",
-    "sha256": "5d920abe20034ea9b7a94652430ceab3de1cf7ff3a14ceb782176d8a468aabcc",
-    "notes": "Medicare Windows Release 1.1.0-beta.10"
+    "version": "1.1.0-beta.11",
+    "pub_date": "2026-08-17T01:55:00Z",
+    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.11/medicare-windows-setup-1.1.0-beta.11.exe",
+    "sha256": "67e912c5c2dd3436c6a49e62ff4a0f83e1b6ef43aa278de670413b84fcf1595e",
+    "notes": "Medicare Windows Release 1.1.0-beta.11"
   },
   "android": {
-    "version": "1.1.0-beta.10",
-    "pub_date": "2026-08-17T01:35:00Z",
-    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.10/medicare-android-1.1.0-beta.10.apk",
-    "sha256": "c051824723b0b9bd50ea362a37e4319a1fa0c4f50d303faf339bf6e93ec2b24a",
-    "notes": "Medicare Android Release 1.1.0-beta.10"
+    "version": "1.1.0-beta.11",
+    "pub_date": "2026-08-17T01:55:00Z",
+    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.11/medicare-android-1.1.0-beta.11.apk",
+    "sha256": "c58f2e13344cde264c24f10f847be71f695352cabd0fc287fa6c27647adab587",
+    "notes": "Medicare Android Release 1.1.0-beta.11"
   }
 }
