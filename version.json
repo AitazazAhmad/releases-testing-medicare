@@ -1,21 +1,21 @@
 {
-  "version": "1.1.0-beta.7",
-  "pub_date": "2026-08-17T00:15:00Z",
-  "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.7/medicare-windows-setup-1.1.0-beta.7.exe",
-  "sha256": "48a4aa6cb3ee21d252cd32ea4273cd0ad38973389fec7b8a3214516454750229",
-  "notes": "Medicare Release 1.1.0-beta.7 - Version Control & Staff Validation Update",
+  "version": "1.1.0-beta.8",
+  "pub_date": "2026-08-17T00:45:00Z",
+  "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.8/medicare-windows-setup-1.1.0-beta.8.exe",
+  "sha256": "9afd956d5dd16a503ebcae86fc0e242f6e5a30f46e903448183dea9add1ce9a5",
+  "notes": "Medicare Release 1.1.0-beta.8 - Auto-Update Testing & Staff Permissions",
   "windows": {
-    "version": "1.1.0-beta.7",
-    "pub_date": "2026-08-17T00:15:00Z",
-    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.7/medicare-windows-setup-1.1.0-beta.7.exe",
-    "sha256": "48a4aa6cb3ee21d252cd32ea4273cd0ad38973389fec7b8a3214516454750229",
-    "notes": "Medicare Windows Release 1.1.0-beta.7"
+    "version": "1.1.0-beta.8",
+    "pub_date": "2026-08-17T00:45:00Z",
+    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.8/medicare-windows-setup-1.1.0-beta.8.exe",
+    "sha256": "9afd956d5dd16a503ebcae86fc0e242f6e5a30f46e903448183dea9add1ce9a5",
+    "notes": "Medicare Windows Release 1.1.0-beta.8"
   },
   "android": {
-    "version": "1.1.0-beta.7",
-    "pub_date": "2026-08-17T00:15:00Z",
-    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.7/medicare-android-1.1.0-beta.7.apk",
-    "sha256": "b13786ceed8592aecefd9b5a803ca27028068582c157c5bcb43f29770ddf9188",
-    "notes": "Medicare Android Release 1.1.0-beta.7"
+    "version": "1.1.0-beta.8",
+    "pub_date": "2026-08-17T00:45:00Z",
+    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.8/medicare-android-1.1.0-beta.8.apk",
+    "sha256": "ad39b5853c0429a1bdf46a69dc8b3d6ab8b92df0ccb2c5c5fb343b47a84636cd",
+    "notes": "Medicare Android Release 1.1.0-beta.8"
   }
 }
