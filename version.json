@@ -1,15 +1,15 @@
 {
-  "version": "1.1.0-beta.18",
-  "pub_date": "2026-08-17T05:15:00Z",
-  "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.18/medicare-windows-setup-1.1.0-beta.18.exe",
-  "sha256": "5dc372299397e7b3fddfb3ee53035cae282271d951f457645ae13d7f2a6cbc0b",
-  "notes": "Medicare Release 1.1.0-beta.18 - Unconditional Silent Relaunch & UAC Elevation",
+  "version": "1.1.0-beta.19",
+  "pub_date": "2026-08-17T05:25:00Z",
+  "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.19/medicare-windows-setup-1.1.0-beta.19.exe",
+  "sha256": "36b26298405f7b44563cf4861f54f128e766e18a4dd47d7c2e4bc5ca60e1d328",
+  "notes": "Medicare Release 1.1.0-beta.19 - Windows In-App Update Verification",
   "windows": {
-    "version": "1.1.0-beta.18",
-    "pub_date": "2026-08-17T05:15:00Z",
-    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.18/medicare-windows-setup-1.1.0-beta.18.exe",
-    "sha256": "5dc372299397e7b3fddfb3ee53035cae282271d951f457645ae13d7f2a6cbc0b",
-    "notes": "Medicare Windows Release 1.1.0-beta.18"
+    "version": "1.1.0-beta.19",
+    "pub_date": "2026-08-17T05:25:00Z",
+    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.19/medicare-windows-setup-1.1.0-beta.19.exe",
+    "sha256": "36b26298405f7b44563cf4861f54f128e766e18a4dd47d7c2e4bc5ca60e1d328",
+    "notes": "Medicare Windows Release 1.1.0-beta.19"
   },
   "android": {
     "version": "1.1.0-beta.14",
