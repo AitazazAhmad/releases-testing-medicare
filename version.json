@@ -1,21 +1,21 @@
 {
-  "version": "1.1.0-beta.12",
-  "pub_date": "2026-08-17T02:25:00Z",
-  "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.12/medicare-windows-setup-1.1.0-beta.12.exe",
-  "sha256": "ae4c3cf31df82be11a690317256669c6303b9cb93a3e5b8ac349183747971da0",
-  "notes": "Medicare Release 1.1.0-beta.12 - Seamless Windows Auto-Update & Process Termination",
+  "version": "1.1.0-beta.13",
+  "pub_date": "2026-08-17T03:15:00Z",
+  "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.13/medicare-windows-setup-1.1.0-beta.13.exe",
+  "sha256": "5a54ca256925ca9fbc71d79113eb29484cd469c998fcd860558bea52a3c8b9dc",
+  "notes": "Medicare Release 1.1.0-beta.13 - Android Startup Notification Buffer & Windows Silent Upgrade",
   "windows": {
-    "version": "1.1.0-beta.12",
-    "pub_date": "2026-08-17T02:25:00Z",
-    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.12/medicare-windows-setup-1.1.0-beta.12.exe",
-    "sha256": "ae4c3cf31df82be11a690317256669c6303b9cb93a3e5b8ac349183747971da0",
-    "notes": "Medicare Windows Release 1.1.0-beta.12"
+    "version": "1.1.0-beta.13",
+    "pub_date": "2026-08-17T03:15:00Z",
+    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.13/medicare-windows-setup-1.1.0-beta.13.exe",
+    "sha256": "5a54ca256925ca9fbc71d79113eb29484cd469c998fcd860558bea52a3c8b9dc",
+    "notes": "Medicare Windows Release 1.1.0-beta.13"
   },
   "android": {
-    "version": "1.1.0-beta.12",
-    "pub_date": "2026-08-17T02:25:00Z",
-    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.12/medicare-android-1.1.0-beta.12.apk",
-    "sha256": "93c4184f98dcd6abf097621cc665ccc67fc4cf4137da715236f37da947dff799",
-    "notes": "Medicare Android Release 1.1.0-beta.12"
+    "version": "1.1.0-beta.13",
+    "pub_date": "2026-08-17T03:15:00Z",
+    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.13/medicare-android-1.1.0-beta.13.apk",
+    "sha256": "5ed77c0451183dac171f53fa8dfe0cce35b8660c6e4ee45fdd8fa37594eaeb93",
+    "notes": "Medicare Android Release 1.1.0-beta.13"
   }
 }
