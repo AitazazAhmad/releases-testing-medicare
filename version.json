@@ -1,21 +1,21 @@
 {
-  "version": "1.1.0-beta.13",
-  "pub_date": "2026-08-17T03:15:00Z",
-  "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.13/medicare-windows-setup-1.1.0-beta.13.exe",
-  "sha256": "5a54ca256925ca9fbc71d79113eb29484cd469c998fcd860558bea52a3c8b9dc",
-  "notes": "Medicare Release 1.1.0-beta.13 - Android Startup Notification Buffer & Windows Silent Upgrade",
+  "version": "1.1.0-beta.14",
+  "pub_date": "2026-08-17T03:40:00Z",
+  "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.14/medicare-windows-setup-1.1.0-beta.14.exe",
+  "sha256": "a3e87a5d4017f00258da3ca8a8f9712693b33cdc0f69a5a5b28171b7038b9eea",
+  "notes": "Medicare Release 1.1.0-beta.14 - ShellExecute UAC Elevation & Silent Relaunch Fix",
   "windows": {
-    "version": "1.1.0-beta.13",
-    "pub_date": "2026-08-17T03:15:00Z",
-    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.13/medicare-windows-setup-1.1.0-beta.13.exe",
-    "sha256": "5a54ca256925ca9fbc71d79113eb29484cd469c998fcd860558bea52a3c8b9dc",
-    "notes": "Medicare Windows Release 1.1.0-beta.13"
+    "version": "1.1.0-beta.14",
+    "pub_date": "2026-08-17T03:40:00Z",
+    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.14/medicare-windows-setup-1.1.0-beta.14.exe",
+    "sha256": "a3e87a5d4017f00258da3ca8a8f9712693b33cdc0f69a5a5b28171b7038b9eea",
+    "notes": "Medicare Windows Release 1.1.0-beta.14"
   },
   "android": {
-    "version": "1.1.0-beta.13",
-    "pub_date": "2026-08-17T03:15:00Z",
-    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.13/medicare-android-1.1.0-beta.13.apk",
-    "sha256": "5ed77c0451183dac171f53fa8dfe0cce35b8660c6e4ee45fdd8fa37594eaeb93",
-    "notes": "Medicare Android Release 1.1.0-beta.13"
+    "version": "1.1.0-beta.14",
+    "pub_date": "2026-08-17T03:40:00Z",
+    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.14/medicare-android-1.1.0-beta.14.apk",
+    "sha256": "674675cae53acea04a6fcfb24ec1a796526696ba51ac935fa2ffd4ecb279bece",
+    "notes": "Medicare Android Release 1.1.0-beta.14"
   }
 }
