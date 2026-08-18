@@ -1,15 +1,15 @@
 {
-    "version":  "1.1.0-beta.20",
-    "pub_date":  "2026-08-18T01:05:09Z",
-    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.20/medicare-windows-setup-1.1.0-beta.20.exe",
-    "sha256":  "7f276216c75a24768726f293c04dcf03c76d3c0bb93f98a24f7bf27a98990b12",
-    "notes":  "Medicare Release 1.1.0-beta.20 - Fix auto-update: VERYSILENT flags, MedicareAppMutex, repo alignment",
+    "version":  "1.1.0-beta.21",
+    "pub_date":  "2026-08-18T01:14:57Z",
+    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.21/medicare-windows-setup-1.1.0-beta.21.exe",
+    "sha256":  "faf478af549d5b21f102ca4720e2164601158fe0ae67bed9ed4f40e5debdb7d5",
+    "notes":  "Medicare Windows Release 1.1.0-beta.21",
     "windows":  {
-                    "version":  "1.1.0-beta.20",
-                    "pub_date":  "2026-08-18T01:05:09Z",
-                    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.20/medicare-windows-setup-1.1.0-beta.20.exe",
-                    "sha256":  "7f276216c75a24768726f293c04dcf03c76d3c0bb93f98a24f7bf27a98990b12",
-                    "notes":  "Medicare Windows Release 1.1.0-beta.20"
+                    "version":  "1.1.0-beta.21",
+                    "pub_date":  "2026-08-18T01:14:57Z",
+                    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.21/medicare-windows-setup-1.1.0-beta.21.exe",
+                    "sha256":  "faf478af549d5b21f102ca4720e2164601158fe0ae67bed9ed4f40e5debdb7d5",
+                    "notes":  "Medicare Windows Release 1.1.0-beta.21"
                 },
     "android":  {
                     "version":  "1.1.0-beta.14",
