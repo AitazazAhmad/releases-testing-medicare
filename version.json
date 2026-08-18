@@ -1,15 +1,15 @@
 {
-    "version":  "1.1.0-beta.24",
-    "pub_date":  "2026-08-18T03:07:04Z",
-    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.24/medicare-windows-setup-1.1.0-beta.24.exe",
-    "sha256":  "0e38a6bf1487254cfb0496af9695a1f9e337e8f5fbaeceafb91eca40e39b18f1",
-    "notes":  "Medicare Windows Release 1.1.0-beta.24 - Native Batch Launcher \u0026 Auto Desktop Shortcuts",
+    "version":  "1.1.0-beta.26",
+    "pub_date":  "2026-08-18T03:18:18Z",
+    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.26/medicare-windows-setup-1.1.0-beta.26.exe",
+    "sha256":  "e79a91f176efbdea2b0419d1668779d3dadf5f7b44422d186ba437fe04920132",
+    "notes":  "Medicare Windows Release 1.1.0-beta.26 - Tested Native Batch Launcher \u0026 Auto Desktop Shortcuts",
     "windows":  {
-                    "version":  "1.1.0-beta.24",
-                    "pub_date":  "2026-08-18T03:07:04Z",
-                    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.24/medicare-windows-setup-1.1.0-beta.24.exe",
-                    "sha256":  "0e38a6bf1487254cfb0496af9695a1f9e337e8f5fbaeceafb91eca40e39b18f1",
-                    "notes":  "Medicare Windows Release 1.1.0-beta.24"
+                    "version":  "1.1.0-beta.26",
+                    "pub_date":  "2026-08-18T03:18:18Z",
+                    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.26/medicare-windows-setup-1.1.0-beta.26.exe",
+                    "sha256":  "e79a91f176efbdea2b0419d1668779d3dadf5f7b44422d186ba437fe04920132",
+                    "notes":  "Medicare Windows Release 1.1.0-beta.26"
                 },
     "android":  {
                     "version":  "1.1.0-beta.14",
