@@ -1,15 +1,15 @@
 {
-    "version":  "1.1.0-beta.22",
-    "pub_date":  "2026-08-18T01:39:20Z",
-    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.22/medicare-windows-setup-1.1.0-beta.22.exe",
-    "sha256":  "51c32e1c84731a1bb67634d3fa87dc2dcd2da76931f16f46e65b67d72dfb8dad",
-    "notes":  "Medicare Windows Release 1.1.0-beta.22 - Full Fix: 64-bit Inno Setup, Job Object Breakaway, AppMutex Relaunch",
+    "version":  "1.1.0-beta.23",
+    "pub_date":  "2026-08-18T01:46:20Z",
+    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.23/medicare-windows-setup-1.1.0-beta.23.exe",
+    "sha256":  "d3a7cf598a5ed08f015b145f60571ba6199243024a4f308729d69635b796da51",
+    "notes":  "Medicare Windows Release 1.1.0-beta.23",
     "windows":  {
-                    "version":  "1.1.0-beta.22",
-                    "pub_date":  "2026-08-18T01:39:20Z",
-                    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.22/medicare-windows-setup-1.1.0-beta.22.exe",
-                    "sha256":  "51c32e1c84731a1bb67634d3fa87dc2dcd2da76931f16f46e65b67d72dfb8dad",
-                    "notes":  "Medicare Windows Release 1.1.0-beta.22"
+                    "version":  "1.1.0-beta.23",
+                    "pub_date":  "2026-08-18T01:46:20Z",
+                    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.23/medicare-windows-setup-1.1.0-beta.23.exe",
+                    "sha256":  "d3a7cf598a5ed08f015b145f60571ba6199243024a4f308729d69635b796da51",
+                    "notes":  "Medicare Windows Release 1.1.0-beta.23"
                 },
     "android":  {
                     "version":  "1.1.0-beta.14",
