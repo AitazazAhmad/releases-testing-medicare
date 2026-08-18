@@ -1,21 +1,21 @@
 {
-  "version": "1.1.0-beta.19",
-  "pub_date": "2026-08-17T05:25:00Z",
-  "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.19/medicare-windows-setup-1.1.0-beta.19.exe",
-  "sha256": "36b26298405f7b44563cf4861f54f128e766e18a4dd47d7c2e4bc5ca60e1d328",
-  "notes": "Medicare Release 1.1.0-beta.19 - Windows In-App Update Verification",
-  "windows": {
-    "version": "1.1.0-beta.19",
-    "pub_date": "2026-08-17T05:25:00Z",
-    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.19/medicare-windows-setup-1.1.0-beta.19.exe",
-    "sha256": "36b26298405f7b44563cf4861f54f128e766e18a4dd47d7c2e4bc5ca60e1d328",
-    "notes": "Medicare Windows Release 1.1.0-beta.19"
-  },
-  "android": {
-    "version": "1.1.0-beta.14",
-    "pub_date": "2026-08-17T03:40:00Z",
-    "url": "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.14/medicare-android-1.1.0-beta.14.apk",
-    "sha256": "674675cae53acea04a6fcfb24ec1a796526696ba51ac935fa2ffd4ecb279bece",
-    "notes": "Medicare Android Release 1.1.0-beta.14"
-  }
+    "version":  "1.1.0-beta.20",
+    "pub_date":  "2026-08-18T00:19:20Z",
+    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/medicare-v1.1.0-beta.20/medicare-windows-setup-1.1.0-beta.20.exe",
+    "sha256":  "7f276216c75a24768726f293c04dcf03c76d3c0bb93f98a24f7bf27a98990b12",
+    "notes":  "Medicare Release 1.1.0-beta.20 - Fix auto-update: VERYSILENT flags, MedicareAppMutex, repo alignment",
+    "windows":  {
+                    "version":  "1.1.0-beta.20",
+                    "pub_date":  "2026-08-18T00:19:20Z",
+                    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/medicare-v1.1.0-beta.20/medicare-windows-setup-1.1.0-beta.20.exe",
+                    "sha256":  "7f276216c75a24768726f293c04dcf03c76d3c0bb93f98a24f7bf27a98990b12",
+                    "notes":  "Medicare Windows Release 1.1.0-beta.20"
+                },
+    "android":  {
+                    "version":  "1.1.0-beta.14",
+                    "pub_date":  "2026-08-17T03:40:00Z",
+                    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.14/medicare-android-1.1.0-beta.14.apk",
+                    "sha256":  "674675cae53acea04a6fcfb24ec1a796526696ba51ac935fa2ffd4ecb279bece",
+                    "notes":  "Medicare Android Release 1.1.0-beta.14"
+                }
 }
