@@ -1,21 +1,21 @@
 {
-    "version":  "1.1.0-beta.27",
-    "pub_date":  "2026-08-18T07:57:02Z",
-    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.27/medicare-windows-setup-1.1.0-beta.27.exe",
-    "sha256":  "93c3ceda5bbd2e023e559e15ceac1c8da2d82444584b4ce0d4b3718f33e3db66",
-    "notes":  "Medicare Release 1.1.0-beta.27 for Windows and Android (Background DownloadManager Support)",
+    "version":  "1.1.0-beta.28",
+    "pub_date":  "2026-08-18T08:22:17Z",
+    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.28/medicare-windows-setup-1.1.0-beta.28.exe",
+    "sha256":  "092eb38f7c5a65a25c127379b567ec5508a27f21ce33f8d7b08658d3577fff2d",
+    "notes":  "Medicare Release 1.1.0-beta.28 for Windows and Android (Immediate Startup Update Dialog \u0026 Background DownloadManager)",
     "windows":  {
-                    "version":  "1.1.0-beta.27",
-                    "pub_date":  "2026-08-18T07:57:02Z",
-                    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.27/medicare-windows-setup-1.1.0-beta.27.exe",
-                    "sha256":  "93c3ceda5bbd2e023e559e15ceac1c8da2d82444584b4ce0d4b3718f33e3db66",
-                    "notes":  "Medicare Windows Release 1.1.0-beta.27"
+                    "version":  "1.1.0-beta.28",
+                    "pub_date":  "2026-08-18T08:22:17Z",
+                    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.28/medicare-windows-setup-1.1.0-beta.28.exe",
+                    "sha256":  "092eb38f7c5a65a25c127379b567ec5508a27f21ce33f8d7b08658d3577fff2d",
+                    "notes":  "Medicare Windows Release 1.1.0-beta.28"
                 },
     "android":  {
-                    "version":  "1.1.0-beta.27",
-                    "pub_date":  "2026-08-18T07:57:02Z",
-                    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.27/medicare-android-1.1.0-beta.27.apk",
-                    "sha256":  "f51b0b676d5f693699c2ea3f1f89353fb4584a0e779842d7de834dcf182f2734",
-                    "notes":  "Medicare Android Release 1.1.0-beta.27 with Background DownloadManager"
+                    "version":  "1.1.0-beta.28",
+                    "pub_date":  "2026-08-18T08:22:17Z",
+                    "url":  "https://github.com/AitazazAhmad/releases-testing-medicare/releases/download/v1.1.0-beta.28/medicare-android-1.1.0-beta.28.apk",
+                    "sha256":  "2a84d4eaf6a9c403e286d7ffc871c3d745f46b7a21283a99148670e13a84f23a",
+                    "notes":  "Medicare Android Release 1.1.0-beta.28 with Background DownloadManager"
                 }
 }
